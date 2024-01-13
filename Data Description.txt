@@ -1,0 +1,24 @@
+Description of the generated data:
+
+ID
+age: Age of the customer.
+job: Job type of the customer (e.g., management, technician, blue-collar).
+marital: Marital status of the customer (e.g., married, single, divorced).
+education: Education level of the customer (e.g., primary, secondary, tertiary).
+default: Whether the customer has credit in default (yes/no).
+balance: Balance in the customer's account.
+housing: Whether the customer has a housing loan (yes/no).
+loan: Whether the customer has a personal loan (yes/no).
+contact: Contact communication type (e.g., cellular, telephone).
+day: Last contact day of the month.
+month: Last contact month of the year.
+duration: Duration of the last contact in seconds.
+campaign: Number of contacts performed during this campaign.
+pdays: Number of days since the customer was last contacted (-1 means not previously contacted).
+previous: Number of contacts performed before this campaign.
+poutcome: Outcome of the previous marketing campaign (e.g., success, failure, unknown).
+deposit: Whether the customer subscribed to a term deposit (yes/no).
+income : customer's income
+loan_amount : customer's the loan amount
+
+Note: This dataset is entirely synthetic and does not represent real-world data. The relationships between variables are randomly generated.
